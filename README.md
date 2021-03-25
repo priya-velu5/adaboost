@@ -21,7 +21,13 @@ Below are the steps for performing the AdaBoost algorithm:
 
 
 
-
+Steps to implement the code:
+1. Load the dataset into a dataframe
+2. Separate the feature vector and target variable 
+3. SPlit the dataset into training set and test set - a 70/30 ratio is ideal
+4. Create adaboost classifier object
+5. Train the dataset
+6. Check the model accuracy 
 
 
 References :
